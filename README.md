@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Framework used
 VSCODE
 
-##Project includes NODE.JS, REACT.JS and SASS
+## Project includes NODE.JS, REACT.JS and SASS
 
 ## Available Scripts
 
