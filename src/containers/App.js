@@ -22,7 +22,11 @@ class App extends Component {
       searchfield: ''
     }
   }
-
+  
+  // Ajax request using fetch API
+  // javascript ES6 and AJAX have promises to tell that when they will get the result they will surely let us know
+  // promise is a object that may produce a single value in future
+  //3 states: fullfilled, rejected and pending
   componentDidMount() {
     fetch('https://jsonplaceholder.typicode.com/users')
       .then(response=> response.json())
