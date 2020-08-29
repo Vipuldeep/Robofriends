@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Framework used
+## IDE used
 VSCODE
 
 ## Project includes NODE.JS, REACT.JS and SASS
